@@ -6,3 +6,5 @@
 
 ### Resources
 * [gitignore generator](https://www.toptal.com/developers/gitignore)
+* [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
+* [Unity Learn](https://learn.unity.com/)
